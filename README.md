@@ -19,4 +19,6 @@ of attrition and provide actionable HR recommendations.
 - Interactive slicers for Department, Gender and Education
 
 ## Dashboard Preview
-![HR Dashboard](dashboard_screenshot.png)
+![HR Analytics Dashboard](hr_analytics_dashboard.png)
+
+
